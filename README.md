@@ -1,5 +1,6 @@
 ## Hello freaky bro!!!
-https://github-readme-streak-stats.herokuapp.com/?user=kyburka
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=kyburka&theme=dark&background=000000)](https://git.io/streak-stats)
+
 Hello, I've waited here for you
 Everlong
 Tonight, I throw myself into
