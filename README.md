@@ -1,5 +1,4 @@
 ## Hello freaky bro!!!
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=kyburka&theme=dark&background=000000)](https://git.io/streak-stats)
 [![GitHub Streak](https://streak-stats.demolab.com?user=Kyburka&theme=nightowl&border_radius=5&locale=ru&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
 Hello, I've waited here for you  
