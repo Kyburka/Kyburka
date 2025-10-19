@@ -1,6 +1,6 @@
 # Hello freaky bro!!!
 [![GitHub Streak](https://streak-stats.demolab.com?user=Kyburka&theme=nightowl&border_radius=5&locale=ru&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kyburka&theme=dark&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kyburka&theme=cobalt&show_icons=true)
 
 Hello, I've waited here for you  
 Everlong  
