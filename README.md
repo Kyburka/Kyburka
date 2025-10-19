@@ -6,7 +6,7 @@
 
 <img src="https://widgetbite.com/stats/Kyburka" alt="watching_count" />
 
-![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=kbrk&theme=dark)]
+![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=kbrk&theme=dark)
 
 Hello, I've waited here for you  
 Everlong  
