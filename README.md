@@ -6,6 +6,8 @@
 
 <img src="https://widgetbite.com/stats/Kyburka" alt="watching_count" />
 
+[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=kbrk&theme=nightowl)](https://github.com/KnlnKS/leetcode-stats)
+
 Hello, I've waited here for you  
 Everlong  
 Tonight, I throw myself into  
