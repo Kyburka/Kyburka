@@ -4,6 +4,8 @@
 
 [![codewars](https://www.codewars.com/users/Kyburka/badges/small)](https://www.codewars.com/users/Kyburka)
 
+<img src="https://widgetbite.com/stats/{random-guid}" alt="watching_count" />
+
 Hello, I've waited here for you  
 Everlong  
 Tonight, I throw myself into  
