@@ -1,5 +1,10 @@
 # Hello freaky bro!!!
-[![GitHub Workflow Status](https://img.shields.io/github/actions/workflow/status/Kyburka/Kyburka/main.yml?label=action&style=flat-square)](https://github.com/Kyburka/Kyburka/actions/workflows/main.yml)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Kyburka/Kyburka/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Kyburka/Kyburka/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Kyburka/Kyburka/output/github-contribution-grid-snake.svg">
+</picture>
+
 ![GitHub Streak](https://streak-stats.demolab.com?user=Kyburka&theme=nightowl&border_radius=5&locale=ru&date_format=j%20M%5B%20Y%5D)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kyburka&theme=nightowl&show_icons=true)
 
