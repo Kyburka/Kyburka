@@ -6,7 +6,6 @@
 </picture>
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=Kyburka&theme=nightowl&border_radius=5&locale=ru&date_format=j%20M%5B%20Y%5D)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kyburka&theme=nightowl&show_icons=true)
 
 [![codewars](https://www.codewars.com/users/Kyburka/badges/small)](https://www.codewars.com/users/Kyburka)
 
